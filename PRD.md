@@ -60,7 +60,7 @@ flowchart TD
 
 | # | Pain Point | Dampak |
 |---|---|---|
-| 1 | **Weekly Report diketik ulang manual** oleh Admin Service (1 orang, berusia lanjut) | Memakan waktu sangat lama, rawan salah ketik, bottleneck operasional |
+| 1 | **Weekly Report diketik ulang manual** oleh Admin Service (1 orang) | Memakan waktu sangat lama, rawan salah ketik, bottleneck operasional |
 | 2 | Form kertas bisa hilang, rusak, atau tidak terbaca | Data tidak reliable, proses verifikasi terhambat |
 | 3 | Siklus revisi Planner berulang tanpa tracking | Tidak ada visibilitas status — laporan mana yang sudah Verified, mana yang masih Revision |
 | 4 | Format penulisan tidak konsisten antar mekanik | Admin Service harus menginterpretasi ulang tulisan tangan |
